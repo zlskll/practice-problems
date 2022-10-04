@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\所有代码\刷的题\C语言online judge题目\C语言online judge题目\源.cpp(210,36): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  C语言online judge题目.vcxproj -> D:\所有代码\刷的题\C语言online judge题目\x64\Debug\C语言online judge题目.exe
